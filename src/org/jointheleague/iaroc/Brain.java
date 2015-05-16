@@ -42,6 +42,7 @@ public class Brain extends IRobotCreateAdapter {
 	}
 
 	public void initialize() throws ConnectionLostException {
+        //LOADED
 		dashboard.log("iARoC-2015");
 		driveDirect(wheelSpeed, wheelSpeed);
 	}

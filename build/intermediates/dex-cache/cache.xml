@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Guest/Documents/iARoC-2015-Sarah/lib/ioiolibandroid.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1de6f386c30d0ed32d3bbaff740b9c64540fa151">
+        <dex dex="/Users/Guest/Documents/iARoC-2015-Sarah/build/intermediates/pre-dexed/debug/ioiolibandroid-1a2c1b3b59eb0c30e415fc087e91e47fd07a1471.jar" />
+    </item>
+    <item
+        jar="/Users/Guest/Documents/iARoC-2015-Sarah/lib/ioioirobot.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="526b632e18315adf5e43e8dc6069b3a6c13ae437">
+        <dex dex="/Users/Guest/Documents/iARoC-2015-Sarah/build/intermediates/pre-dexed/debug/ioioirobot-d03ad327a46925472f3f195a5aba1de36ca18f64.jar" />
+    </item>
+
+</items>
